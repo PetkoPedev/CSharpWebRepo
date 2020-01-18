@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\CSharpWebRepo\HttpRequester\HttpRequester\bin\Debug\netcoreapp3.1\HttpRequester.exe
+C:\Users\Petko Pedev\source\CSharpWebRepo\HttpRequester\HttpRequester\bin\Debug\netcoreapp3.1\HttpRequester.deps.json
+C:\Users\Petko Pedev\source\CSharpWebRepo\HttpRequester\HttpRequester\bin\Debug\netcoreapp3.1\HttpRequester.runtimeconfig.json
+C:\Users\Petko Pedev\source\CSharpWebRepo\HttpRequester\HttpRequester\bin\Debug\netcoreapp3.1\HttpRequester.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\CSharpWebRepo\HttpRequester\HttpRequester\bin\Debug\netcoreapp3.1\HttpRequester.dll
+C:\Users\Petko Pedev\source\CSharpWebRepo\HttpRequester\HttpRequester\bin\Debug\netcoreapp3.1\HttpRequester.pdb
+C:\Users\Petko Pedev\source\CSharpWebRepo\HttpRequester\HttpRequester\obj\Debug\netcoreapp3.1\HttpRequester.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\CSharpWebRepo\HttpRequester\HttpRequester\obj\Debug\netcoreapp3.1\HttpRequester.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\CSharpWebRepo\HttpRequester\HttpRequester\obj\Debug\netcoreapp3.1\HttpRequester.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\CSharpWebRepo\HttpRequester\HttpRequester\obj\Debug\netcoreapp3.1\HttpRequester.dll
+C:\Users\Petko Pedev\source\CSharpWebRepo\HttpRequester\HttpRequester\obj\Debug\netcoreapp3.1\HttpRequester.pdb
