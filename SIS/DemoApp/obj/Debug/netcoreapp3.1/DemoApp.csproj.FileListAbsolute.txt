@@ -14,3 +14,4 @@ C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\DemoApp\bin\Debug\netcoreapp3.1\SI
 C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\DemoApp\obj\Debug\netcoreapp3.1\DemoApp.csproj.CopyComplete
 C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\DemoApp\obj\Debug\netcoreapp3.1\DemoApp.dll
 C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\DemoApp\obj\Debug\netcoreapp3.1\DemoApp.pdb
+C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\DemoApp\bin\Debug\netcoreapp3.1\wwwroot\favicon.ico
