@@ -1,0 +1,8 @@
+C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.deps.json
+C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.pdb
