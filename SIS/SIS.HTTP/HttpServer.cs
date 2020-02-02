@@ -26,7 +26,7 @@ namespace SIS.HTTP
         public async Task ResetAsync()
         {
             this.Stop();
-            this.StartAsync();
+            await this.StartAsync();
         }
 
         public async Task StartAsync()
@@ -54,7 +54,7 @@ namespace SIS.HTTP
             {
                 byte[] requestBytes = new byte[1000000]; //TODO: Use buffer
                 int bytesRead = await networkStream.ReadAsync(requestBytes, 0, requestBytes.Length);
-                string requestAsString = Encoding.UTF8.GetString(requestBytes, 0, requestBytes.Length);
+                string requestAsString = Encoding.UTF8.GetString(requestBytes, 0, bytesRead);
 
                 var request = new HttpRequest(requestAsString);
 
@@ -93,10 +93,10 @@ namespace SIS.HTTP
                     new ResponseCookie(HttpConstants.SessionIdCookieName, newSessionId)
                     {
                         HttpOnly = true,
-                        MaxAge = 30*3600,
+                        MaxAge = 30 * 3600,
                     });
                 }
-                
+
 
                 byte[] responseBytes = Encoding.UTF8.GetBytes(response.ToString());
                 await networkStream.WriteAsync(responseBytes, 0, responseBytes.Length);
