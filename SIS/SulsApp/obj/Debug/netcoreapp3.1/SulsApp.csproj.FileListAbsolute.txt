@@ -85,3 +85,4 @@ C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\Vi
 C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Problems\Details.html
 C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Submissions\Create.html
 C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\wwwroot\css\reset.css
+C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Shared\Error.html
