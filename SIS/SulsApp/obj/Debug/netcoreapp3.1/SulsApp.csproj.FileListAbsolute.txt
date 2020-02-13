@@ -49,7 +49,6 @@ C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\ru
 C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Home\Index.html
 C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Shared\_Layout.html
 C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\wwwroot\css\bootstrap.min.css
-C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\wwwroot\css\reset-css.css
 C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\wwwroot\css\site.css
 C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Users\Login.html
 C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Users\Register.html
@@ -81,3 +80,8 @@ C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\ru
 C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Home\IndexLoggedIn.html
+C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Problems\Create.html
+C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Problems\Details.html
+C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Submissions\Create.html
+C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\wwwroot\css\reset.css
