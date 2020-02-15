@@ -20,6 +20,15 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Update="Controllers\ProblemsController.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Update="Controllers\SubmissionsController.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
     <None Update="Views\Home\Index.html">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

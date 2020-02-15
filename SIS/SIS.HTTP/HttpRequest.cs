@@ -88,12 +88,27 @@ namespace SIS.HTTP
             this.Body = bodyBuilder.ToString().TrimEnd('\r', '\n');
 
             this.FormData = new Dictionary<string, string>();
-            var bodyParts = this.Body.Split(new char[] { '&' }, StringSplitOptions.RemoveEmptyEntries);
-            foreach (var bodyPart in bodyParts)
+            ParseData(this.FormData, this.Body);
+
+            this.Query = string.Empty;
+            if (this.Path.Contains("?"))
             {
-                var parameterParts = bodyPart.Split(new char[] { '=' }, 2);
-                this.FormData.Add(
-                    HttpUtility.UrlDecode(parameterParts[0]), 
+                var parts = this.Path.Split(new char[] { '?' }, 2);
+                this.Path = parts[0];
+                this.Query = parts[1];
+            }
+            this.QueryData = new Dictionary<string, string>();
+            ParseData(this.QueryData, this.Query);
+        }
+
+        private void ParseData(IDictionary<string, string> output, string input)
+        {
+            var dataParts = input.Split(new char[] { '&' }, StringSplitOptions.RemoveEmptyEntries);
+            foreach (var dataPart in dataParts)
+            {
+                var parameterParts = dataPart.Split(new char[] { '=' }, 2);
+                output.Add(
+                    HttpUtility.UrlDecode(parameterParts[0]),
                     HttpUtility.UrlDecode(parameterParts[1]));
             }
         }
@@ -109,6 +124,8 @@ namespace SIS.HTTP
         public string Body { get; set; }
 
         public IDictionary<string, string> FormData { get; set; }
+        public string Query { get; set; }
+        public IDictionary<string, string> QueryData { get; set; }
 
         public IDictionary<string, string> SessionData { get; set; }
     }

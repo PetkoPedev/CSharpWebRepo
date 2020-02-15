@@ -5,7 +5,7 @@ using System.Text;
 
 namespace SulsApp.Controllers
 {
-    public class TestController : Controller
+    class SubmissionsController : Controller
     {
     }
 }
