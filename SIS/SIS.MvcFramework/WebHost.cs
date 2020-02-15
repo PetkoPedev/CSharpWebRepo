@@ -94,6 +94,10 @@ namespace SIS.MvcFramework
 
                     actionaParameterValues.Add(parameterValue);
                 }
+                else
+                {
+                    actionaParameterValues.Add(value);
+                }
             }
 
             var response = actionMethod.Invoke(controller, actionaParameterValues.ToArray()) as HttpResponse;
