@@ -22,7 +22,7 @@ namespace SulsApp.Models
 
         public DateTime CreatedOn { get; set; }
 
-        public string ProblmeId { get; set; }
+        public string ProblemId { get; set; }
         public virtual Problem Problem { get; set; }
         
         public string UserId { get; set; }

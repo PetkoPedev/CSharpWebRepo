@@ -88,3 +88,4 @@ C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\ww
 C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Shared\Error.html
 C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\Controllers\ProblemsController.cs
 C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\Controllers\SubmissionsController.cs
+C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\Controllers\HomeController.cs
