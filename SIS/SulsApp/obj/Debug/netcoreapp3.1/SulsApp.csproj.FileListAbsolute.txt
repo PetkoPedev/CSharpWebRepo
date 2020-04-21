@@ -89,3 +89,5 @@ C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\Vi
 C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\Controllers\ProblemsController.cs
 C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\Controllers\SubmissionsController.cs
 C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\bin\Debug\netcoreapp3.1\Controllers\HomeController.cs
+C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\obj\Debug\netcoreapp3.1\SulsApp.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SulsApp\obj\Debug\netcoreapp3.1\SulsApp.genruntimeconfig.cache

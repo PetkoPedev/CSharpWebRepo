@@ -34,6 +34,7 @@ namespace SulsApp.Controllers
                     Name = x.Name,
                     ProblemId = x.Id,
                 }).FirstOrDefault();
+
             if (problem == null)
             {
                 return this.Error("Problem not found!");

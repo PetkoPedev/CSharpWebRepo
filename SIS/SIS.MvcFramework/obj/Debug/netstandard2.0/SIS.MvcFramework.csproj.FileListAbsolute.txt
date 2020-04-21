@@ -9,3 +9,4 @@ C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SIS.MvcFramework\obj\Debug\netstan
 C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CopyComplete
 C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.dll
 C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.pdb
+C:\Users\Petko Pedev\source\CSharpWebRepo\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CoreCompileInputs.cache
