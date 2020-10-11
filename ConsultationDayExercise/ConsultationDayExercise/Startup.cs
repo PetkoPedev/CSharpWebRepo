@@ -33,7 +33,7 @@ namespace ConsultationDayExercise
                     Configuration.GetConnectionString("DefaultConnection")));
 
 
-            services.AddDefaultIdentity<IdentityUser>(options => 
+            services.AddIdentity<IdentityUser, IdentityRole>(options => 
             {
                 options.Password.RequireDigit = false;
                 options.Password.RequireLowercase = false;

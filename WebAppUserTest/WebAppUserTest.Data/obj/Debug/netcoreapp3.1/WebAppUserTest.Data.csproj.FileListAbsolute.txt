@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\CSharpWebRepo\WebAppUserTest\WebAppUserTest.Data\bin\Debug\netcoreapp3.1\WebAppUserTest.Data.deps.json
+C:\Users\Petko Pedev\source\CSharpWebRepo\WebAppUserTest\WebAppUserTest.Data\bin\Debug\netcoreapp3.1\WebAppUserTest.Data.dll
+C:\Users\Petko Pedev\source\CSharpWebRepo\WebAppUserTest\WebAppUserTest.Data\obj\Debug\netcoreapp3.1\WebAppUserTest.Data.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\CSharpWebRepo\WebAppUserTest\WebAppUserTest.Data\obj\Debug\netcoreapp3.1\WebAppUserTest.Data.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\CSharpWebRepo\WebAppUserTest\WebAppUserTest.Data\obj\Debug\netcoreapp3.1\WebAppUserTest.Data.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\CSharpWebRepo\WebAppUserTest\WebAppUserTest.Data\bin\Debug\netcoreapp3.1\WebAppUserTest.Data.pdb
+C:\Users\Petko Pedev\source\CSharpWebRepo\WebAppUserTest\WebAppUserTest.Data\obj\Debug\netcoreapp3.1\WebAppUserTest.Data.dll
+C:\Users\Petko Pedev\source\CSharpWebRepo\WebAppUserTest\WebAppUserTest.Data\obj\Debug\netcoreapp3.1\WebAppUserTest.Data.pdb
+C:\Users\Petko Pedev\source\CSharpWebRepo\WebAppUserTest\WebAppUserTest.Data\bin\Debug\netcoreapp3.1\WebAppUserTest.Data.runtimeconfig.json
+C:\Users\Petko Pedev\source\CSharpWebRepo\WebAppUserTest\WebAppUserTest.Data\bin\Debug\netcoreapp3.1\WebAppUserTest.Data.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\CSharpWebRepo\WebAppUserTest\WebAppUserTest.Data\obj\Debug\netcoreapp3.1\WebAppUserTest.Data.genruntimeconfig.cache

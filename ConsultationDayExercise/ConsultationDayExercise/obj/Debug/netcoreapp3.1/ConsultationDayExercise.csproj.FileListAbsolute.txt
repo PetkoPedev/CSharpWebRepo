@@ -163,3 +163,9 @@ C:\Users\Petko Pedev\source\CSharpWebRepo\ConsultationDayExercise\ConsultationDa
 C:\Users\Petko Pedev\source\CSharpWebRepo\ConsultationDayExercise\ConsultationDayExercise\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
 C:\Users\Petko Pedev\source\CSharpWebRepo\ConsultationDayExercise\ConsultationDayExercise\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\Petko Pedev\source\CSharpWebRepo\ConsultationDayExercise\ConsultationDayExercise\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Petko Pedev\source\CSharpWebRepo\ConsultationDayExercise\ConsultationDayExercise\obj\Debug\netcoreapp3.1\ConsultationDayExercise.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\CSharpWebRepo\ConsultationDayExercise\ConsultationDayExercise\obj\Debug\netcoreapp3.1\ConsultationDayExercise.genruntimeconfig.cache
+C:\Users\Petko Pedev\source\CSharpWebRepo\ConsultationDayExercise\ConsultationDayExercise\bin\Debug\netcoreapp3.1\Areas\Moderation\Views\Moderate\Index.cshtml
+C:\Users\Petko Pedev\source\CSharpWebRepo\ConsultationDayExercise\ConsultationDayExercise\bin\Debug\netcoreapp3.1\Areas\Moderation\Views\_ViewStart.cshtml
+C:\Users\Petko Pedev\source\CSharpWebRepo\ConsultationDayExercise\ConsultationDayExercise\obj\Debug\netcoreapp3.1\Razor\Areas\Moderation\Views\Moderate\Index.cshtml.g.cs
+C:\Users\Petko Pedev\source\CSharpWebRepo\ConsultationDayExercise\ConsultationDayExercise\obj\Debug\netcoreapp3.1\Razor\Areas\Moderation\Views\_ViewStart.cshtml.g.cs

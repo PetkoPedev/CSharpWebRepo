@@ -1,0 +1,17 @@
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\MyFirstMvcApp.exe
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\MyFirstMvcApp.deps.json
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\MyFirstMvcApp.runtimeconfig.json
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\MyFirstMvcApp.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\MyFirstMvcApp.dll
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\MyFirstMvcApp.pdb
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\SUS.HTTP.dll
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\SUS.HTTP.pdb
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.csproj.CopyComplete
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.dll
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.pdb
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.genruntimeconfig.cache
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\wwwroot\favicon.ico

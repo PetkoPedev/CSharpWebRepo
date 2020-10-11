@@ -1,0 +1,21 @@
+﻿@model MyFirstAspNetCoreApp.ViewModels.Home.IndexViewModel
+@using MyFirstAspNetCoreApp.Services
+@inject IStringManipulation StringManipulation
+@{
+    ViewData["Title"] = "Home Page";
+}
+    <div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+        <h2>@Model.Message</h2>
+        <h3>@ViewData["name"]</h3>
+        <h4>@this.User.Identity.Name</h4>
+        <p>@Model.Year</p>
+        <p>@DateTime.UtcNow.DayOfWeek</p>
+    </div>
+<ul>
+    @foreach (var name in Model.Names)
+    {
+        <li>@StringManipulation.MakeFirstLetterUpper(name)</li>
+    }
+</ul>
+
