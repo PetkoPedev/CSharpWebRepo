@@ -14,22 +14,22 @@ namespace MyFirstMvcApp.Controllers
             return this.File("wwwroot/favicon.ico", "image/vnd.microsoft.icon");
         }
 
-        public HttpResponse Bootstrap(HttpRequest arg)
+        public HttpResponse Bootstrap(HttpRequest request)
         {
             return this.File("wwwroot/css/bootstrap.min.css", "text/css");
         }
 
-        public HttpResponse CustomCss(HttpRequest arg)
+        public HttpResponse CustomCss(HttpRequest request)
         {
             return this.File("wwwroot/css/custom.css", "text/css");
         }
 
-        public HttpResponse BootstrapJs(HttpRequest arg)
+        public HttpResponse BootstrapJs(HttpRequest request)
         {
             return this.File("wwwroot/js/bootstrap.bundle.min.js", "text/javascript");
         }
 
-        public HttpResponse CustomJs(HttpRequest arg)
+        public HttpResponse CustomJs(HttpRequest request)
         {
             return this.File("wwwroot/js/custom.js", "text/javascript");
         }
