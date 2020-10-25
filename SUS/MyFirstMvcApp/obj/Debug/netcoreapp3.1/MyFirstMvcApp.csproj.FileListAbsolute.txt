@@ -17,14 +17,6 @@ C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\obj\Debug\netcoreapp
 C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\wwwroot\favicon.ico
 C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\SUS.MvcFramework.dll
 C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\SUS.MvcFramework.pdb
-C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Users\Register.html
-C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Cards\Add.html
-C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Cards\All.html
-C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Cards\Collection.html
-C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Home\Index.html
-C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Users\Login.html
-C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Shared\_Layout.html
-C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Shared\Error.html
 C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\wwwroot\css\bootstrap.min.css
 C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\wwwroot\css\custom.css
 C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\wwwroot\js\bootstrap.bundle.min.js
@@ -57,3 +49,12 @@ C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp
 C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Cards\Add.cshtml
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Cards\All.cshtml
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Cards\Collection.cshtml
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Home\Index.cshtml
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Shared\Error.cshtml
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Shared\_Layout.cshtml
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Users\Login.cshtml
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Users\Register.cshtml
+C:\Users\Petko Pedev\source\CSharpWebRepo\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Home\About.cshtml

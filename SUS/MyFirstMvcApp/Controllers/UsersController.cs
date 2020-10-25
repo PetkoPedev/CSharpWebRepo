@@ -19,6 +19,7 @@ namespace MyFirstMvcApp.Controllers
             return this.View();
         }
 
+        [HttpPost("/Users/Dologin")]
         public HttpResponse DoLogin(HttpRequest arg)
         {
             // TODO: read data
