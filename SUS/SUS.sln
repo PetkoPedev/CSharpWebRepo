@@ -9,9 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SUS.MvcFramework", "SUS.Mvc
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apps", "Apps", "{8529DB2C-1EFD-4FE4-94A1-5A958C2039F8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirstMvcApp", "MyFirstMvcApp\MyFirstMvcApp.csproj", "{C8F9A3A4-8616-4A2C-80DB-8D6918207A74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BattleCards", "MyFirstMvcApp\BattleCards.csproj", "{C8F9A3A4-8616-4A2C-80DB-8D6918207A74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SUS.MvcFramework.Tests", "SUS.MvcFramework.Tests\SUS.MvcFramework.Tests.csproj", "{75597144-514B-4776-A25B-83BB3878104E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SUS.MvcFramework.Tests", "SUS.MvcFramework.Tests\SUS.MvcFramework.Tests.csproj", "{75597144-514B-4776-A25B-83BB3878104E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

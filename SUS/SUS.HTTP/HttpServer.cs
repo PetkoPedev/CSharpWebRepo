@@ -32,60 +32,70 @@ namespace SUS.HTTP
 
         private async Task ProcessClientAsync(TcpClient tcpClient)
         {
-            using (NetworkStream stream = tcpClient.GetStream())
+            try
             {
-                List<byte> data = new List<byte>();
-                int position = 0;
-                byte[] buffer = new byte[HttpConstants.BufferSize];
-                while (true)
+                using (NetworkStream stream = tcpClient.GetStream())
                 {
-                    int count = await stream.ReadAsync(buffer, position, buffer.Length);
-                    position += count;
-
-                    if (count < buffer.Length)
+                    List<byte> data = new List<byte>();
+                    int position = 0;
+                    byte[] buffer = new byte[HttpConstants.BufferSize];
+                    while (true)
                     {
-                        var partialBuffer = new byte[count];
-                        Array.Copy(buffer, partialBuffer, count);
-                        data.AddRange(partialBuffer);
-                        break;
+                        int count = await stream.ReadAsync(buffer, position, buffer.Length);
+                        position += count;
+
+                        if (count < buffer.Length)
+                        {
+                            var partialBuffer = new byte[count];
+                            Array.Copy(buffer, partialBuffer, count);
+                            data.AddRange(partialBuffer);
+                            break;
+                        }
+                        else
+                        {
+                            data.AddRange(buffer);
+                        }
+                    }
+
+                    // byte[] => string (text)
+                    var requestAsString = Encoding.UTF8.GetString(data.ToArray());
+                    var request = new HttpRequest(requestAsString);
+                    Console.WriteLine($"{request.Method} {request.Path} => {request.Headers.Count} headers");
+
+                    // var route = this.routeTable.FirstOrDefault(
+                    //     x => x.HttpMethod == request.Method && string.Compare(x.Path, request.Path, true) == 0);
+
+                    HttpResponse response;
+                    var route = this.routeTable.FirstOrDefault(x => string.Compare(x.Path, request.Path, true) == 0
+                    && x.Method == request.Method);
+                    if (route != null)
+                    {
+                        response = route.Action(request);
                     }
                     else
                     {
-                        data.AddRange(buffer);
+                        // Not Found 404
+                        response = new HttpResponse("text/html", new byte[0], HttpStatusCode.NotFound);
+                    }
+
+
+                    response.Headers.Add(new Header("Server", "SUS Server 1.0"));
+                    response.Cookies.Add(new ResponseCookie("sid", Guid.NewGuid().ToString()) { HttpOnly = true, MaxAge = 60 * 24 * 60 * 60 });
+                    var responseHeaderBytes = Encoding.UTF8.GetBytes(response.ToString());
+
+                    await stream.WriteAsync(responseHeaderBytes, 0, responseHeaderBytes.Length);
+
+                    if (response.Body != null)
+                    {
+                        await stream.WriteAsync(response.Body, 0, response.Body.Length);
                     }
                 }
-
-                // byte[] => string (text)
-                var requestAsString = Encoding.UTF8.GetString(data.ToArray());
-                var request = new HttpRequest(requestAsString);
-                Console.WriteLine($"{request.Method} {request.Path} => {request.Headers.Count} headers");
-
-                // var route = this.routeTable.FirstOrDefault(
-                //     x => x.HttpMethod == request.Method && string.Compare(x.Path, request.Path, true) == 0);
-
-                HttpResponse response;
-                var route = this.routeTable.FirstOrDefault(x => string.Compare(x.Path, request.Path, true) == 0
-                && x.Method == request.Method);
-                if(route != null)
-                {
-                    response = route.Action(request);
-                }
-                else
-                {
-                    // Not Found 404
-                    response = new HttpResponse("text/html", new byte[0], HttpStatusCode.NotFound);
-                }
-
-
-                response.Headers.Add(new Header("Server", "SUS Server 1.0"));
-                response.Cookies.Add(new ResponseCookie("sid", Guid.NewGuid().ToString()) { HttpOnly = true, MaxAge = 60 * 24 * 60 * 60 });
-                var responseHeaderBytes = Encoding.UTF8.GetBytes(response.ToString());
-
-                await stream.WriteAsync(responseHeaderBytes, 0, responseHeaderBytes.Length);
-                await stream.WriteAsync(response.Body, 0, response.Body.Length);
-                //await stream.WriteAsync();
+                tcpClient.Close();
             }
-            tcpClient.Close();
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex);
+            }
         }
     }
 }

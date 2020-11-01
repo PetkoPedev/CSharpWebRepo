@@ -1,4 +1,4 @@
-﻿using MyFirstMvcApp.Controllers;
+﻿using BattleCards.Controllers;
 using SUS.HTTP;
 using SUS.MvcFramework;
 using System;
@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyFirstMvcApp
+namespace BattleCards
 {
     public class Program
     {
