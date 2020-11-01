@@ -1151,7 +1151,8 @@
       "SUS.MvcFramework/1.0.0": {
         "dependencies": {
           "Microsoft.CodeAnalysis.CSharp": "3.7.0",
-          "SUS.HTTP": "1.0.0"
+          "SUS.HTTP": "1.0.0",
+          "System.ComponentModel.Annotations": "4.7.0"
         },
         "runtime": {
           "SUS.MvcFramework.dll": {}

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OMfvXlsrxddZg66lA/PYfFw+rfHdgLtjKf0vmd1/6nSUeZG7TUSjdcesqtJ8elhxcx88LvRLjZ0JxsYR7mt+7g==",
+  "dgSpecHash": "pcR0JFwetxjSwaoDvUwF8dQWwqS+ez7PBRfA2rOh4ktzGs6XpNutuWnn8bcFQuzgvwKLqMgsudpC/ZIz/PbxcA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Petko Pedev\\source\\CSharpWebRepo\\SUS\\SUS.MvcFramework.Tests\\SUS.MvcFramework.Tests.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "C:\\Users\\Petko Pedev\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\Petko Pedev\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.diagnostics.debug\\4.0.11\\system.diagnostics.debug.4.0.11.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.diagnostics.tools\\4.0.1\\system.diagnostics.tools.4.0.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.dynamic.runtime\\4.0.11\\system.dynamic.runtime.4.0.11.nupkg.sha512",
