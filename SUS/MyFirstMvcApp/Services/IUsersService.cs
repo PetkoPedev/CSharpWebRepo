@@ -4,7 +4,14 @@ using System.Text;
 
 namespace BattleCards.Services
 {
-    class IUsersService
+    public interface IUsersService
     {
+        string CreateUser(string username, string email, string password);
+
+        string GetUserId(string username, string password);
+
+        bool IsUsernameAvailable(string username);
+
+        bool IsEmailAvailable(string email);
     }
 }

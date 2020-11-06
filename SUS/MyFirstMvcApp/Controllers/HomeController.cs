@@ -20,11 +20,5 @@ namespace BattleCards.Controllers
 
             return this.View();
         }
-
-        public HttpResponse About()
-        {
-            this.SignIn("petko");
-            return this.View();
-        }
     }
 }
