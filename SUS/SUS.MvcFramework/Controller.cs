@@ -28,7 +28,7 @@ namespace SUS.MvcFramework
                 "/" + viewPath + ".cshtml");
             viewContent = this.viewEngine.GetHtml(viewContent, viewModel, this.GetUserId());
             
-            string responseHtml = this.PutViewInLayout(viewContent, viewModel);
+            var responseHtml = this.PutViewInLayout(viewContent, viewModel);
 
             var responseBodyBytes = Encoding.UTF8.GetBytes(responseHtml);
             var response = new HttpResponse("text/html", responseBodyBytes);
@@ -53,7 +53,7 @@ namespace SUS.MvcFramework
         {
             var viewContent = $"<div class=\"alert alert-danger\" role=\"alert\">{errorText}</div>";
             
-            string responseHtml = this.PutViewInLayout(viewContent);
+            var responseHtml = this.PutViewInLayout(viewContent);
             
             var responseBodyBytes = Encoding.UTF8.GetBytes(responseHtml);
             var response = new HttpResponse("text/html", responseBodyBytes, HttpStatusCode.ServerError);

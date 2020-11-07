@@ -23,12 +23,14 @@ namespace SUS.MvcFramework
             AutoRegisterStaticFile(routeTable);
             AutoRegisterRoutes(routeTable, application, serviceCollection);
 
-            Console.WriteLine("All registered routes.");
+            Console.WriteLine("All registered routes:");
             foreach (var route in routeTable)
             {
                 Console.WriteLine($"{route.Method} {route.Path}");
             }
 
+            Console.WriteLine();
+            Console.WriteLine("Requests:");
             IHttpServer server = new HttpServer(routeTable);
 
             await server.StartAsync(port);
@@ -91,8 +93,8 @@ namespace SUS.MvcFramework
                     var properties = parameter.ParameterType.GetProperties();
                     foreach (var property in properties)
                     {
-                        var propertyHttpParameterValue = GetParameterFromRequest(request, parameter.Name);
-                        var propertyParameterValue = Convert.ChangeType(httpParameterValue, property.PropertyType);
+                        var propertyHttpParameterValue = GetParameterFromRequest(request, property.Name);
+                        var propertyParameterValue = Convert.ChangeType(propertyHttpParameterValue, property.PropertyType);
                         property.SetValue(parameterValue, propertyParameterValue);
                     }
                 }

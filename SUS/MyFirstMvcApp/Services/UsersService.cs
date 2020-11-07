@@ -11,6 +11,7 @@ namespace BattleCards.Services
     public class UsersService : IUsersService
     {
         private readonly ApplicationDbContext db;
+
         public UsersService(ApplicationDbContext db)
         {
             this.db = db;
