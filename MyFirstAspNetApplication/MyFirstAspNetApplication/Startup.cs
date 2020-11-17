@@ -8,7 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using MyFirstAspNetApplication.Data;
-using MyFirstAspNetCoreApplication.Service;
+using MyFirstAspNetApplication.Service;
 using System;
 using System.Collections.Generic;
 using System.Linq;

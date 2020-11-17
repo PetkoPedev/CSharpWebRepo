@@ -90,3 +90,15 @@ C:\Users\Petko Pedev\source\CSharpWebRepo\MyFirstAspNetApplication\MyFirstAspNet
 C:\Users\Petko Pedev\source\CSharpWebRepo\MyFirstAspNetApplication\MyFirstAspNetApplication\obj\Debug\netcoreapp3.1\MyFirstAspNetApplication.dll
 C:\Users\Petko Pedev\source\CSharpWebRepo\MyFirstAspNetApplication\MyFirstAspNetApplication\obj\Debug\netcoreapp3.1\MyFirstAspNetApplication.pdb
 C:\Users\Petko Pedev\source\CSharpWebRepo\MyFirstAspNetApplication\MyFirstAspNetApplication\obj\Debug\netcoreapp3.1\MyFirstAspNetApplication.genruntimeconfig.cache
+C:\Users\Petko Pedev\source\CSharpWebRepo\MyFirstAspNetApplication\MyFirstAspNetApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MyNewLayout.cshtml.g.cs
+C:\Users\Petko Pedev\source\CSharpWebRepo\MyFirstAspNetApplication\MyFirstAspNetApplication\bin\Debug\netcoreapp3.1\Views\Home\Index.cshtml
+C:\Users\Petko Pedev\source\CSharpWebRepo\MyFirstAspNetApplication\MyFirstAspNetApplication\bin\Debug\netcoreapp3.1\Views\Home\Privacy.cshtml
+C:\Users\Petko Pedev\source\CSharpWebRepo\MyFirstAspNetApplication\MyFirstAspNetApplication\bin\Debug\netcoreapp3.1\Views\Shared\Error.cshtml
+C:\Users\Petko Pedev\source\CSharpWebRepo\MyFirstAspNetApplication\MyFirstAspNetApplication\bin\Debug\netcoreapp3.1\Views\Shared\_Layout.cshtml
+C:\Users\Petko Pedev\source\CSharpWebRepo\MyFirstAspNetApplication\MyFirstAspNetApplication\bin\Debug\netcoreapp3.1\Views\Shared\_LoginPartial.cshtml
+C:\Users\Petko Pedev\source\CSharpWebRepo\MyFirstAspNetApplication\MyFirstAspNetApplication\bin\Debug\netcoreapp3.1\Views\Shared\_MyNewLayout.cshtml
+C:\Users\Petko Pedev\source\CSharpWebRepo\MyFirstAspNetApplication\MyFirstAspNetApplication\bin\Debug\netcoreapp3.1\Views\_ViewImports.cshtml
+C:\Users\Petko Pedev\source\CSharpWebRepo\MyFirstAspNetApplication\MyFirstAspNetApplication\bin\Debug\netcoreapp3.1\Views\_ViewStart.cshtml
+C:\Users\Petko Pedev\source\CSharpWebRepo\MyFirstAspNetApplication\MyFirstAspNetApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\_HomePageStart.cshtml.g.cs
+C:\Users\Petko Pedev\source\CSharpWebRepo\MyFirstAspNetApplication\MyFirstAspNetApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\RegisteredUsers\Default.cshtml.g.cs
+C:\Users\Petko Pedev\source\CSharpWebRepo\MyFirstAspNetApplication\MyFirstAspNetApplication\bin\Debug\netcoreapp3.1\Views\Shared\Components\RegisteredUsers\Default.cshtml

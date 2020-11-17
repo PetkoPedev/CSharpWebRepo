@@ -2,8 +2,8 @@
 using Microsoft.Extensions.Logging;
 using MyFirstAspNetApplication.Data;
 using MyFirstAspNetApplication.Models;
-using MyFirstAspNetCoreApplication.Service;
-using MyFirstAspNetCoreApplication.ViewModels.Home;
+using MyFirstAspNetApplication.Service;
+using MyFirstAspNetApplication.ViewModels.Home;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
