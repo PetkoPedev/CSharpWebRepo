@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using MyFirstAspNetApplication.Data;
+using MyFirstAspNetApplication.Service;
 using MyFirstAspNetApplication.ViewModels.ViewComponents;
 
 namespace MyFirstAspNetApplication.ViewComponents
@@ -11,7 +12,7 @@ namespace MyFirstAspNetApplication.ViewComponents
     public class RegisteredUsersViewComponent : ViewComponent
     {
         private readonly ApplicationDbContext dbContext;
-        public RegisteredUsersViewComponent(ApplicationDbContext dbContext)
+        public RegisteredUsersViewComponent(ApplicationDbContext dbContext, IInstanceCounter instance)
         {
             this.dbContext = dbContext;
         }

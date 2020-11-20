@@ -8,6 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using MyFirstAspNetApplication.Data;
+using MyFirstAspNetApplication.Filters;
 using MyFirstAspNetApplication.Service;
 using System;
 using System.Collections.Generic;
@@ -33,9 +34,18 @@ namespace MyFirstAspNetApplication
                     Configuration.GetConnectionString("DefaultConnection")));
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = false)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
-            services.AddControllersWithViews();
+            services.AddControllersWithViews(configure => 
+            {
+                configure.Filters.Add(new AddHeaderActionFilter());
+                configure.Filters.Add(new MyAuthFilter());
+                configure.Filters.Add(new MyResourceFilter());
+                configure.Filters.Add(new MyExceptionFilter());
+                configure.Filters.Add(new MyResultFilterAttribute());
+            });
             services.AddRazorPages();
             services.AddTransient<IShortStringService, ShortStringService>();
+
+            services.AddTransient<IInstanceCounter, InstanceCounter>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

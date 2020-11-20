@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using MyFirstAspNetApplication.Data;
 using MyFirstAspNetApplication.Models;
@@ -17,14 +18,20 @@ namespace MyFirstAspNetApplication.Controllers
         private readonly ILogger<HomeController> _logger;
         private readonly ApplicationDbContext dbContext;
         private readonly IShortStringService shortStringService;
+        private readonly IConfiguration configuration;
+        private readonly IInstanceCounter instanceCounter;
 
         public HomeController(ILogger<HomeController> logger,
             ApplicationDbContext dbContext,
-            IShortStringService shortStringService)
+            IShortStringService shortStringService,
+            IConfiguration configuration,
+            IInstanceCounter instanceCounter)
         {
             _logger = logger;
             this.dbContext = dbContext;
             this.shortStringService = shortStringService;
+            this.configuration = configuration;
+            this.instanceCounter = instanceCounter;
         }
 
         public IActionResult Index(int id)
@@ -41,6 +48,16 @@ namespace MyFirstAspNetApplication.Controllers
             viewModel.Description = this.shortStringService.GetShort(viewModel.Description, 10);
 
             return View(viewModel);
+        }
+
+        public IActionResult Exception()
+        {
+            throw new Exception();
+        }
+
+        public IActionResult StatusCodeError(int errorCode)
+        {
+            return this.View();
         }
 
         public IActionResult Privacy()

@@ -1,6 +1,8 @@
 ﻿@using MyFirstAspNetApplication.ViewModels.Home
 @using MyFirstAspNetApplication.Service;
 @model IndexViewModel
+@inject Microsoft.Extensions.Configuration.IConfiguration Configuration
+@inject IInstanceCounter InstanceCounter
 @{
     ViewData["Title"] = "Home Page";
     this.Layout = "_Layout";
@@ -8,6 +10,8 @@
 
 <div class="text-center">
     <h1 class="display-4">Welcome @Model.Name</h1>
+    <h2>@this.Configuration["HelloMessage"]</h2>
+    <h2>Instances: @InstanceCounter.Instances</h2>
     <h2>It is @Model.Year year.</h2>
     <p>@Model.Description</p>
     <p>We have @Model.UsersCount users.</p>
