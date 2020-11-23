@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WB4N8HOxv3LH/K2vQpewOyfLB6s22OeFJsJ1O0RuXrfKO+hC88vxAx0j6Pfb/TVtZVR5Ce0yziz/8lpna3ADJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Petko Pedev\\source\\CSharpWebRepo\\MoiteRecepti\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petko Pedev\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.205\\stylecop.analyzers.1.2.0-beta.205.nupkg.sha512",
+    "C:\\Users\\Petko Pedev\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.205\\stylecop.analyzers.unstable.1.2.0.205.nupkg.sha512"
+  ],
+  "logs": []
+}
