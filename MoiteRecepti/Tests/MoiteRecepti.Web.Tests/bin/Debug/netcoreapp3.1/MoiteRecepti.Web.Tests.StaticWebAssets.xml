@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/Identity" Path="C:\Users\Petko Pedev\.nuget\packages\microsoft.aspnetcore.identity.ui\3.1.9\staticwebassets\V4\" />
+  <ContentRoot BasePath="_content/MoiteRecepti.Web" Path="C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Web\MoiteRecepti.Web\wwwroot\" />
+</StaticWebAssets>

@@ -1,0 +1,8 @@
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\bin\Debug\netstandard2.1\MoiteRecepti.Services.Mapping.deps.json
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\bin\Debug\netstandard2.1\MoiteRecepti.Services.Mapping.dll
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\bin\Debug\netstandard2.1\MoiteRecepti.Services.Mapping.pdb
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\netstandard2.1\MoiteRecepti.Services.Mapping.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\netstandard2.1\MoiteRecepti.Services.Mapping.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\netstandard2.1\MoiteRecepti.Services.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\netstandard2.1\MoiteRecepti.Services.Mapping.dll
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\netstandard2.1\MoiteRecepti.Services.Mapping.pdb

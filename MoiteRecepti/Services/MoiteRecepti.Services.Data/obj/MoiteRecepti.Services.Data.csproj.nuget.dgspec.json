@@ -181,6 +181,9 @@
               },
               "C:\\Users\\Petko Pedev\\source\\CSharpWebRepo\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj": {
                 "projectPath": "C:\\Users\\Petko Pedev\\source\\CSharpWebRepo\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj"
+              },
+              "C:\\Users\\Petko Pedev\\source\\CSharpWebRepo\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\Petko Pedev\\source\\CSharpWebRepo\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj"
               }
             }
           }
@@ -264,6 +267,78 @@
               "target": "Package",
               "version": "[10.1.1, )"
             },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.205, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Petko Pedev\\source\\CSharpWebRepo\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Petko Pedev\\source\\CSharpWebRepo\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj",
+        "projectName": "MoiteRecepti.Web.ViewModels",
+        "projectPath": "C:\\Users\\Petko Pedev\\source\\CSharpWebRepo\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\Petko Pedev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Petko Pedev\\source\\CSharpWebRepo\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Petko Pedev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Petko Pedev\\source\\CSharpWebRepo\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\Petko Pedev\\source\\CSharpWebRepo\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj"
+              },
+              "C:\\Users\\Petko Pedev\\source\\CSharpWebRepo\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj": {
+                "projectPath": "C:\\Users\\Petko Pedev\\source\\CSharpWebRepo\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
             "StyleCop.Analyzers": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers",
               "suppressParent": "All",

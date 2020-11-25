@@ -1,16 +1,32 @@
 ﻿namespace MoiteRecepti.Web.Controllers
 {
     using System.Diagnostics;
-
-    using MoiteRecepti.Web.ViewModels;
+    using System.Linq;
 
     using Microsoft.AspNetCore.Mvc;
+    using MoiteRecepti.Data;
+    using MoiteRecepti.Data.Common.Repositories;
+    using MoiteRecepti.Data.Models;
+    using MoiteRecepti.Services.Data;
+    using MoiteRecepti.Web.ViewModels;
+    using MoiteRecepti.Web.ViewModels.Home;
 
+    // 1. ApplicationDbContext
+    // 2. Repositories
+    // 3. Service
     public class HomeController : BaseController
     {
+        private readonly IGetCountsService getCountsService;
+
+        public HomeController(IGetCountsService getCountsService)
+        {
+            this.getCountsService = getCountsService;
+        }
+
         public IActionResult Index()
         {
-            return this.View();
+            var viewModel = this.getCountsService.GetCounts();
+            return this.View(viewModel);
         }
 
         public IActionResult Privacy()

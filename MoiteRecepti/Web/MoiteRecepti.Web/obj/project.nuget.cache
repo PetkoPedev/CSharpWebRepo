@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vVirqVWQ2UPtZFRXcGN3zijZMIyHYEzP2eVEaAIK5NnS64ZiBMEFSYe1B56eF+NgcEz9aW/5z4w6nbqbpl3EbQ==",
+  "dgSpecHash": "jw/D0qn6V24t/WMcgHuYfgcjc+jE7YW5kJUsxdg3wYflPxam7wHRRWe2fWxVd/hNqdl99spNLMCT4onz70nR3A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Petko Pedev\\source\\CSharpWebRepo\\MoiteRecepti\\Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj",
   "expectedPackageFiles": [
@@ -30,8 +30,10 @@
     "C:\\Users\\Petko Pedev\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.9\\microsoft.entityframeworkcore.3.1.9.nupkg.sha512",
     "C:\\Users\\Petko Pedev\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.9\\microsoft.entityframeworkcore.abstractions.3.1.9.nupkg.sha512",
     "C:\\Users\\Petko Pedev\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.9\\microsoft.entityframeworkcore.analyzers.3.1.9.nupkg.sha512",
+    "C:\\Users\\Petko Pedev\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.4\\microsoft.entityframeworkcore.design.3.1.4.nupkg.sha512",
     "C:\\Users\\Petko Pedev\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.9\\microsoft.entityframeworkcore.relational.3.1.9.nupkg.sha512",
     "C:\\Users\\Petko Pedev\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.9\\microsoft.entityframeworkcore.sqlserver.3.1.9.nupkg.sha512",
+    "C:\\Users\\Petko Pedev\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\3.1.4\\microsoft.entityframeworkcore.tools.3.1.4.nupkg.sha512",
     "C:\\Users\\Petko Pedev\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.9\\microsoft.extensions.caching.abstractions.3.1.9.nupkg.sha512",
     "C:\\Users\\Petko Pedev\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.9\\microsoft.extensions.caching.memory.3.1.9.nupkg.sha512",
     "C:\\Users\\Petko Pedev\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.9\\microsoft.extensions.configuration.3.1.9.nupkg.sha512",

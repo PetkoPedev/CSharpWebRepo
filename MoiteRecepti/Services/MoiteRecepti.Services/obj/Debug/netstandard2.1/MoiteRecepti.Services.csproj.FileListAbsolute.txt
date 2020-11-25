@@ -1,0 +1,9 @@
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Services\MoiteRecepti.Services\bin\Debug\netstandard2.1\MoiteRecepti.Services.deps.json
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Services\MoiteRecepti.Services\bin\Debug\netstandard2.1\MoiteRecepti.Services.dll
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Services\MoiteRecepti.Services\bin\Debug\netstandard2.1\MoiteRecepti.Services.pdb
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\netstandard2.1\MoiteRecepti.Services.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\netstandard2.1\MoiteRecepti.Services.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\netstandard2.1\MoiteRecepti.Services.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\netstandard2.1\MoiteRecepti.Services.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\netstandard2.1\MoiteRecepti.Services.dll
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\netstandard2.1\MoiteRecepti.Services.pdb

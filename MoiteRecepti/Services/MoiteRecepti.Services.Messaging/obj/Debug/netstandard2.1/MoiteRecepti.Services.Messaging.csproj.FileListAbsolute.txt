@@ -1,0 +1,8 @@
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\bin\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.deps.json
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\bin\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.dll
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\bin\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.pdb
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.dll
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.pdb

@@ -1,0 +1,16 @@
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\netstandard2.1\MoiteRecepti.Web.ViewModels.deps.json
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\netstandard2.1\MoiteRecepti.Web.ViewModels.dll
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\netstandard2.1\MoiteRecepti.Web.ViewModels.pdb
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\netstandard2.1\MoiteRecepti.Data.Common.dll
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\netstandard2.1\MoiteRecepti.Data.Models.dll
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\netstandard2.1\MoiteRecepti.Services.Mapping.dll
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\netstandard2.1\MoiteRecepti.Data.Models.pdb
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\netstandard2.1\MoiteRecepti.Services.Mapping.pdb
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\netstandard2.1\MoiteRecepti.Data.Common.pdb
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\obj\Debug\netstandard2.1\MoiteRecepti.Web.ViewModels.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\obj\Debug\netstandard2.1\MoiteRecepti.Web.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\obj\Debug\netstandard2.1\MoiteRecepti.Web.ViewModels.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\obj\Debug\netstandard2.1\MoiteRecepti.Web.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\obj\Debug\netstandard2.1\MoiteRecepti.Web.ViewModels.csproj.CopyComplete
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\obj\Debug\netstandard2.1\MoiteRecepti.Web.ViewModels.dll
+C:\Users\Petko Pedev\source\CSharpWebRepo\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\obj\Debug\netstandard2.1\MoiteRecepti.Web.ViewModels.pdb
